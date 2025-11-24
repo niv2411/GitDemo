@@ -1,0 +1,15 @@
+git config --global user.name"niv2411"
+
+global user.email"nivaansg@gmail.com"
+
+global color.ui auto
+(Mandatory)
+git init
+
+git remote add orgin https://github.com/niv2411/GitDemo.git(use based on your own repository)
+
+
+git pull orgin main
+
+git status
+
